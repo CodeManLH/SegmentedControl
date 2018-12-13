@@ -22,7 +22,7 @@ allprojects {
 Add dependency to app module level build.gradle
 ```
 dependencies {
-    implementation 'com.github.CodeManLH:SegmentedControl:1.0.1'
+    implementation 'com.github.CodeManLH:SegmentedControl:1.0.0'
 }
 ```
 
